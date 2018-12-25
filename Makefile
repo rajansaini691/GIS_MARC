@@ -1,3 +1,3 @@
 
 all: pointcloud.py
-	python pointcloud.py
+	python pointcloud.py -v
